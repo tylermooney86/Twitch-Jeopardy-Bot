@@ -292,7 +292,7 @@ async def startJeopardy(ctx, author, message):
 #     Check Message
 #########################
 async def checkMessage(ctx, author, message):
-    global JeopardyQuestion, IsJeopardy, IsDailyDouble, Losers, WinMessage, IsWinner
+    global JeopardyQuestion, IsJeopardy, Losers, WinMessage, IsWinner
     
     # return if author has already guessed
     if author in Losers:
