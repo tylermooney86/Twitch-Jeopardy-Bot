@@ -1,7 +1,6 @@
 ## Config File for storing values used by the bot ##
 approvedusers = [
-    'shnerptv', 'ladyofthecheese', 'Kedarwolf', 'azure_wulfen', 'cry_of_silence', 'deadeye2099',
-     'fischez', 'hobojobojenkins', 'bnvyed', 'optimusuperman', 'tubahero37', 'rhinestonedcowboy'
+    'approveduser'
 ]
 
 onlineannouncements = [
