@@ -1,0 +1,5 @@
+regex
+twitchio
+requests
+fuzzywuzzy
+typing_extensions
